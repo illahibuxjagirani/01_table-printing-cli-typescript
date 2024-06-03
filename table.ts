@@ -2,7 +2,7 @@
 
 import inquirer from "inquirer";
 
-console.log("Welcome to my Channel IB Coding School");
+console.log("Welcome to my IB Coding School");
 
 let myTable = true;
 
